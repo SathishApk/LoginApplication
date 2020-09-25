@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
         createAccount = findViewById(R.id.txtCreateAccount);
         progressbar = findViewById(R.id.progressBar);
         btnLogin = findViewById(R.id.btnLogin);
+        fAuth = FirebaseAuth.getInstance();
+        fStore = FirebaseFirestore.getInstance();
 
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
