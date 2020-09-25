@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154944780865",
+    "firebase_url": "https://loginapplication-f178e.firebaseio.com",
+    "project_id": "loginapplication-f178e",
+    "storage_bucket": "loginapplication-f178e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154944780865:android:7392bbc0c5ff9e8e1264c0",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154944780865-3gpdbgbdplr7fb6n06beisi0s78c9gaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapplication",
+            "certificate_hash": "66a13a654a1384d9f0d9f8e05b320745bd3bae16"
+          }
+        },
+        {
+          "client_id": "154944780865-5g5a2m9c530hf9oqs5c5ekt9sdbe7j3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVoi0D8f2UPOeyNbVi2L_uZygXoVq0YC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154944780865-5g5a2m9c530hf9oqs5c5ekt9sdbe7j3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
